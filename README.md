@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gsfrota
 - 👀 I’m interested in work with codes  
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning javaScript
 - 💞️ I’m looking to collaborate on anything im useful
 - 📫 reach me on insta @guilherme.gsfrota
 

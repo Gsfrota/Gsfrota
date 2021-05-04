@@ -5,7 +5,7 @@ My name is Guilherme Frota
 I am a student of analysis and development of systems at UNIFOR,
 I also study abroad, through courses at Udemy and FreeCampCode. 💻🏆
 
-Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios e pronto para enfrentar as mudanças..
+- Since I was a child curious to discover new technologies and solve problems.
 
 ### "Patience is a virtue, and I'm learning patience. It's a tough lesson." 🌍
 

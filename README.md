@@ -25,4 +25,4 @@ Sou apaixonado por resolver problemas e aprender. Sempre aberto a novos desafios
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gsfrota)](https://github.com/Gsfrota/github-readme-stats) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gsfrota&layout=compact)](https://github.com/Gsfrota/github-readme-stats)
+

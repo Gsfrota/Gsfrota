@@ -1,6 +1,8 @@
 <span >
 
-# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px" > Olá seja bem-vindo(a)!</h2>
+# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px" > 28 / 5000
+Resultados de tradução
+welcome to my repository (a)!</h2>
 </span>
 <div align="center">
 <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="600px" />

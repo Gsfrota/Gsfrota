@@ -1,6 +1,6 @@
 <span >
 
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px" > Welcome to my repository(a)!</h2>
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px" > Welcome to my repository!</h2>
 </span>
 <div align="center">
 <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="600px" />

@@ -1,5 +1,8 @@
 # Hello visitor! 👋
+<div align="center">
+<img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="600px" />
 
+</div>
 My name is Guilherme Frota 
 
 I am a student of analysis and development of systems at UNIFOR,

@@ -1,7 +1,10 @@
 # Hello visitor! 👋
 <div align="center">
 <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="600px" />
+<span >
 
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px" > Olá seja bem-vindo(a)!</h2>
+</span>
 </div>
 My name is Guilherme Frota 
 

@@ -28,8 +28,11 @@ I also study abroad, through courses at DIO and FreeCampCode. 💻🏆
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" heigth="40" style="max-width:100%;">  </img>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" heigth="40" style="max-width:100%;">  </img>
  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="40" heigth="40" style="max-width:100%;"></img>
- <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)" alt="github" width="40" heigth="40" style="max-width:100%;"> </img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="github" width="40" heigth="40" style="max-width:100%;"></img>
+ 
+            
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"alt="github" width="40" heigth="40" style="max-width:100%;" ></img>
+          
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="github" width="40" heigth="40" style="max-width:100%;"></img>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gsfrota)](https://github.com/Gsfrota/github-readme-stats) 
 

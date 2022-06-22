@@ -8,8 +8,8 @@
 </div>
 My name is Guilherme Frota 
 
-I am a student of analysis and development of systems at UNIFOR,
-I also study abroad, through courses at Udemy and FreeCampCode. 💻🏆
+I am a student of analysis and development of systems at Estácio,
+I also study abroad, through courses at DIO and FreeCampCode. 💻🏆
 
 - Since I was a child curious to discover new technologies and solve problems.
 
@@ -17,7 +17,7 @@ I also study abroad, through courses at Udemy and FreeCampCode. 💻🏆
 
 
 - 📍 From Mossoró - RN
-- 💻 Developer Full Stack
+- 💻 Developer 
 
 
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCUotx52M57Y6U6JHwEkDXRg)](https://www.youtube.com/channel/UCIrM3onQ56icU6OWrdfPFrQ) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allisson-lima-da-costa-3382121b6/)](https://www.linkedin.com/in/guilherme-frota-souza-506486198/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/allisson_lima25/)](https://www.linkedin.com/in/guilherme-frota-souza-506486198/) 

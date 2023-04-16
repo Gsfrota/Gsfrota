@@ -6,9 +6,10 @@
 <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="600px" />
 
 </div>
-My name is Guilherme Frota 
+Me chamo Guilherme frota
 
-I am a student of analysis and development of systems at Estácio,
+Sou estudante de Ciências da computação na universidade federal do Ceará em Russas.
+
 I also study abroad, through courses at DIO and FreeCampCode. 💻🏆
 
 - Since I was a child curious to discover new technologies and solve problems.
@@ -16,8 +17,8 @@ I also study abroad, through courses at DIO and FreeCampCode. 💻🏆
 ### "Patience is a virtue, and I'm learning patience. It's a tough lesson." 🌍
 
 
-- 📍 From Mossoró - RN
-- 💻 Developer 
+- 📍 Russas - CE
+- 💻 DevOps
 
 
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCUotx52M57Y6U6JHwEkDXRg)](https://www.youtube.com/channel/UCIrM3onQ56icU6OWrdfPFrQ) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allisson-lima-da-costa-3382121b6/)](https://www.linkedin.com/in/guilherme-frota-souza-506486198/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/allisson_lima25/)](https://www.linkedin.com/in/guilherme-frota-souza-506486198/) 

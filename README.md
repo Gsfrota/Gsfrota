@@ -1,44 +1,47 @@
-<span >
 
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px" > Welcome to my repository!</h2>
-</span>
-<div align="center">
-<img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="600px" />
+Guilherme Frota - DevOps Engineer
+Bem-vindo ao meu repositório! Aqui você encontrará uma visão abrangente das minhas habilidades, experiências e conquistas na área de DevOps. Vamos mergulhar um pouco mais no meu perfil!
 
-</div>
-Me chamo Guilherme frota
+Sobre Mim:
+Me chamo Guilherme Frota, sou estudante de Ciências da Computação na Universidade Federal do Ceará em Russas. Além dos estudos acadêmicos, busco constantemente aprimorar minhas habilidades por meio de cursos. Desde a infância, sempre fui curioso para descobrir novas tecnologias e resolver problemas.
 
-Sou estudante de Ciências da computação na universidade federal do Ceará em Russas.
+"Patience is a virtue, and I'm learning patience. It's a tough lesson." 🌍
 
-I also study abroad, through courses at DIO and FreeCampCode. 💻🏆
+Localização: Russas, CE
+Função: DevOps
+Minhas Habilidades:
 
-- Since I was a child curious to discover new technologies and solve problems.
+Versionamento de Código com Git/GitHub
+Python e Shell Script
+MySQL e Administração de Banco de Dados
+Conhecimento em Docker
+Ferramentas de CI/CD: Azure DevOps, Jenkins
+Administração de Servidores IIS
+Experiência em Linux
+Kubernetes e Ansible (em aprofundamento)
+YouTube | LinkedIn | Instagram
 
-### "Patience is a virtue, and I'm learning patience. It's a tough lesson." 🌍
+Experiência Profissional:
 
+FitBank - DevOps Trainee (ago de 2023 - o momento)
 
-- 📍 Russas - CE
-- 💻 DevOps
+Gerenciamento de pipelines em Azure DevOps e Jenkins
+Administração de servidores IIS para hospedar web apps e APIs
+Automação de tarefas com Shell Script e Python
+Conhecimento abrangente em Azure DevOps e implementação de melhores práticas DevOps
+Participação ativa em projetos críticos de implementação em servidores de produção
+Monitoramento de aplicações com Elastic
+Migração de serviços para Kubernetes usando Azure DevOps
+NERDS - DevOps Engineer (mar de 2023 - jan de 2024)
 
+Líder de infraestrutura em projeto de extensão
+Criação e administração de containers e microservices
+Implementação de tecnologias para otimização de processos
+RC Arquitetura - Suporte TI (mai de 2022 - mai de 2023)
 
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCUotx52M57Y6U6JHwEkDXRg)](https://www.youtube.com/channel/UCIrM3onQ56icU6OWrdfPFrQ) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allisson-lima-da-costa-3382121b6/)](https://www.linkedin.com/in/guilherme-frota-souza-506486198/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/allisson_lima25/)](https://www.linkedin.com/in/guilherme-frota-souza-506486198/) 
+Manutenção de hardware e configurações de software
+Administração de redes
+Formação Acadêmica:
 
-## My skills
-  
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" heigth="40" style="max-width:100%;">
- </img>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" heigth="40" style="max-width:100%;">  </img>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" heigth="40" style="max-width:100%;">  </img>
- <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="40" heigth="40" style="max-width:100%;">
- </img>        
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="github" width="40" heigth="40" style="max-width:100%;" >
- </img>       
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="github" width="40" heigth="40" style="max-width:100%;">
- </img>
-
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gsfrota)](https://github.com/Gsfrota/github-readme-stats) 
-
-
+Universidade Federal do Ceará - Bacharelado em Ciências da Computação (mar de 2023 - nov de 2027)
+Docker, DevOps e mais 2 competências

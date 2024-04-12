@@ -24,7 +24,7 @@ Me chamo Guilherme Frota, sou estudante de Ciências da Computação na Universi
 
 ## Experiência Profissional
 
-### FitBank - DevOps Trainee (ago de 2023 - o momento)
+### FitBank - DevOps Analyst (ago de 2023 - o momento)
 - Gerenciamento de pipelines em Azure DevOps e Jenkins
 - Administração de servidores IIS para hospedar web apps e APIs
 - Automação de tarefas com Shell Script e Python

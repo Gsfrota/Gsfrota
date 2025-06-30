@@ -7,7 +7,7 @@ Me chamo Guilherme Frota, sou estudante de Ciências da Computação na Universi
 
 ### "Patience is a virtue, and I'm learning patience. It's a tough lesson." 🌍
 
-- **Localização:** Russas, CE
+- **Localização:** Mossoró-RN
 - **Função:** 💻 DevOps
 
 ## Minhas Habilidades
@@ -18,13 +18,20 @@ Me chamo Guilherme Frota, sou estudante de Ciências da Computação na Universi
 - Ferramentas de CI/CD: Azure DevOps, Jenkins
 - Administração de Servidores IIS
 - Experiência em Linux
-- Kubernetes e Ansible (em aprofundamento)
+- Kubernetes e Ansible
+- Terraform
+- AWS
+- AZURE DEVOPS
+- GCP
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-frota-souza-506486198/)](https://www.linkedin.com/in/guilherme-frota-souza-506486198/)
 
 ## Experiência Profissional
 
-### FitBank - DevOps Analyst (ago de 2023 - o momento)
+### Thoughtworks - Infrastructure Support Engineer (Apr2025 - Present)
+ · 3 mosApr 2025 to Present · 3 mos
+
+### FitBank - DevOps Analyst (ago de 2023 - apr2025)
 - Gerenciamento de pipelines em Azure DevOps e Jenkins
 - Administração de servidores IIS para hospedar web apps e APIs
 - Automação de tarefas com Shell Script e Python

@@ -98,7 +98,7 @@ Cloud-native, event-driven platform on **Google Cloud** to automate legal PDF pr
 ## 📫 Contact
 - Email: **guifrotasouza@gmail.com**
 - Phone: **+55 (85) 99131-8582**
-- LinkedIn: *(add your profile link here)*
+- LinkedIn: *(https://www.linkedin.com/in/guilherme-frota/)*
 
 ---
 ⭐ If you’re interested in **DevOps + Python automation**, feel free to explore my repositories and connect!

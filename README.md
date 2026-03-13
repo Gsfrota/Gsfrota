@@ -16,7 +16,6 @@ DevOps and Infrastructure Engineer with **2.5+ years of experience** building cl
 ---
 
 ## 🧰 Tech Stack
-**AGENT CODING** Claude Code
 **Cloud:** Azure • AWS • GCP  
 **CI/CD:** Azure DevOps • GitHub Actions • CircleCI • Jenkins  
 **IaC & Automation:** Terraform • Ansible  
@@ -26,7 +25,7 @@ DevOps and Infrastructure Engineer with **2.5+ years of experience** building cl
 **Version Control:** Git • GitHub • GitLab  
 **Databases:** PostgreSQL • MySQL  
 **Automation & AI tooling:** n8n • Generative AI tools for DevOps workflows & documentation
-
+**AGENT CODING:** •  Claude Code
 ---
 
 ## 💼 Experience

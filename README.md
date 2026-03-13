@@ -201,8 +201,8 @@ Management platform built for artist managers and music business operators, focu
 ---
 
 ## 🎓 Education
-**UNINTER** — **Computer Networks**
-**UFC** - Computer Science
+- **UNINTER** — **Computer Networks**
+- **UFC** - Computer Science
 ---
 
 ## 📜 Certifications

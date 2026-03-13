@@ -209,7 +209,9 @@ Management platform built for artist managers and music business operators, focu
 - Microsoft Certified: **Azure Data Fundamentals (DP-900)**
 - Microsoft Certified: **Azure Fundamentals (AZ-900)**
 - Duolingo English Test: **110**
-
+- ANTROPIC - Claude Code In Action
+- ANTROPIC - AI FLUENCY FOR EDUCATORS
+- ANTROPIC - Teaching AI FLUENCY
 ---
 
 ## 🗣️ Languages

@@ -1,229 +1,127 @@
-# Guilherme Frota — DevOps / Infrastructure Engineer (Python • Cloud • Automation)
+# Guilherme Frota — Infrastructure / DevOps Engineer
 
-Hi! I’m **Guilherme Frota**, a **DevOps / Infrastructure Engineer** focused on **cloud-native delivery**, **Infrastructure as Code**, and **Python-driven automation** across **AWS, Azure, and GCP**.
+**Infrastructure and DevOps Engineer** with experience in cloud-native delivery, Infrastructure as Code, and full-stack SaaS product development. Currently focused on **GovTech, regulatory data platforms, and scalable cloud solutions** applied to public sector challenges.
 
-> “Patience is a virtue, and I'm learning patience. It's a tough lesson.” 🌍
-
-📍 **Mossoró, RN — Brazil**  
-💼 **Role:** DevOps / Infrastructure Engineer  
-🌐 **Work preference:** Remote / distributed teams
+📍 Mossoró, RN — Brazil | Remote
 
 ---
 
-## 🧾 Professional Summary
-DevOps and Infrastructure Engineer with **2.5+ years of experience** building cloud infrastructure, automation, and CI/CD pipelines. Hands-on with **Azure DevOps, Terraform, Docker, Kubernetes (EKS)** and **Google Cloud (Cloud Run, Pub/Sub)**. Proven track record reducing deployment time and improving reliability by automating infrastructure and delivery pipelines across **AWS, Azure and GCP**.
+## Professional Summary
+
+Infrastructure and DevOps Engineer with 3+ years of experience building cloud infrastructure, CI/CD pipelines, and automation across AWS, Azure, and GCP. Hands-on with Terraform, Docker, Kubernetes (EKS), and Google Cloud (Cloud Run, Pub/Sub). Also active in full-stack SaaS product development using React, TypeScript, Supabase, and AI-driven automation.
+
+Current focus: **GovTech solutions** — regulatory data ingestion and analysis platforms, cloud-portable architectures designed for public sector infrastructure (Prodest/government environments), and AI-assisted workflows for operational efficiency.
 
 ---
 
-## 🧰 Tech Stack
-**Cloud:** Azure • AWS • GCP  
-**CI/CD:** Azure DevOps • GitHub Actions • CircleCI • Jenkins  
-**IaC & Automation:** Terraform • Ansible  
-**Containers & Orchestration:** Docker • Kubernetes (EKS)  
-**Observability:** Prometheus • Grafana • ELK Stack • Kubecost  
-**Programming/Scripting:** Python • Bash • PowerShell  
-**Version Control:** Git • GitHub • GitLab  
-**Databases:** PostgreSQL • MySQL  
-**Automation & AI tooling:** n8n • Generative AI tools for DevOps workflows & documentation
-**AGENT CODING:** •  Claude Code
+## Tech Stack
+
+**Cloud:** Azure · AWS · GCP (Cloud Run, Pub/Sub, Cloud Scheduler)
+**CI/CD:** Azure DevOps · GitHub Actions · CircleCI · Jenkins
+**IaC & Automation:** Terraform · Ansible · n8n
+**Containers & Orchestration:** Docker · Kubernetes (EKS)
+**Observability:** Prometheus · Grafana · ELK Stack · Kubecost
+**Programming:** Python · Bash · TypeScript
+**Frontend:** React · Vite · Tailwind CSS · shadcn/ui
+**Backend / BaaS:** FastAPI · Supabase (PostgreSQL + RLS + Edge Functions)
+**Data Parsing:** PapaParse · SheetJS · Zod
+**AI Tooling:** Claude Code · n8n AI workflows · Generative AI integrations
+
 ---
 
-## 💼 Experience
+## Experience
 
-### **Thoughtworks** — Infrastructure Engineer  
+### Thoughtworks — Infrastructure Engineer
 **Apr 2025 – Present**
-- Designed and maintained **CircleCI pipelines** to build, test, and deploy **Python applications** to **Google Cloud Run**
-- Automated **GCP provisioning with Terraform** (Cloud Run services, Pub/Sub topics/subscriptions, databases) integrated into CI/CD
-- Provisioned and operated **n8n as code** (services, networking, access, configuration) enabling consistent multi-environment deployments
-- Built internal automation and AI chatbot solutions using **n8n**, improving team productivity and responsiveness
-- Collaborated with distributed teams to streamline operations and support production workloads
+- Designed and maintained CircleCI pipelines to build, test, and deploy Python applications to Google Cloud Run
+- Automated GCP provisioning with Terraform (Cloud Run, Pub/Sub, databases) integrated into CI/CD
+- Provisioned and operated n8n as code across multi-environment deployments
+- Built internal automation and AI chatbot solutions using n8n, improving team productivity
 
-### **FitBank** — DevOps Engineer  
+### FitBank — DevOps Engineer
 **Aug 2023 – Apr 2025 | Russas, CE**
-- Built and maintained CI/CD pipelines with **Azure DevOps**, improving release reliability across multiple services
-- Automated infrastructure provisioning using **Terraform + Ansible** for repeatable environments on **Azure and AWS**
-- Operated production workloads on **AWS EKS** and Windows Server, handling incident response and troubleshooting
-- Improved observability with **Prometheus, Grafana, ELK** and reduced costs using **Kubecost**
-- Contributed to the migration of **1,000+ Windows Server-based microservices** to **AWS EKS**
+- Built and maintained CI/CD pipelines with Azure DevOps across multiple services
+- Automated infrastructure provisioning using Terraform + Ansible on Azure and AWS
+- Operated production workloads on AWS EKS and Windows Server
+- Contributed to migration of 1,000+ Windows Server-based microservices to AWS EKS
+- Improved observability with Prometheus, Grafana, ELK and reduced costs using Kubecost
 
-### **NERDS (UFC Extension Project)** — DevOps Engineer  
+### NERDS (UFC Extension Project) — DevOps Engineer
 **Mar 2023 – Aug 2023 | Russas, CE**
-- Introduced DevOps culture and practices in a university project with no prior automation/standardized infra
-- Implemented CI/CD and containerization with **Docker** to streamline deployments and reduce configuration drift
-- Supported developers/students troubleshooting pipelines and containerized environments
+- Introduced DevOps culture and CI/CD practices in a university research project
+- Containerized deployments with Docker to reduce configuration drift
 
-### **RC Arquitetura** — IT Support  
+### RC Arquitetura — IT Support
 **May 2022 – May 2023 | Mossoró, RN**
-- Resolved daily IT support tickets (hardware, software, network issues)
-- Helped keep workstations and core systems stable and available
+- Resolved hardware, software, and network support tickets
 
 ---
 
-## 🚀 Featured Project
+## Featured Projects
 
-### **SIMAS — Event-Driven Legal Document Automation Platform**
-Cloud-native, event-driven SaaS platform built to automate legal document workflows for law firms, especially the processing and notification flow around expert reports and legal updates.
+### AGIR PoC — Regulatory Data Analysis Platform for Water Quality
+**[github.com/Gsfrota/agir-poc-arsp](https://github.com/Gsfrota/agir-poc-arsp)**
 
-**Highlights**
-- Built as a **Google Cloud-based event-driven platform** for document processing and workflow automation
-- Uses **Python / FastAPI** services and **asynchronous workers**
-- Leverages **Cloud Run**, **Pub/Sub**, **Document AI**, and **Text-to-Speech**
-- Extracts structured data from legal PDFs and triggers operational workflows automatically
-- Integrated with **WhatsApp / n8n** for:
-  - status updates
-  - reminders
-  - automated voice messages
-- Replaced a manual process that can consume **50+ hours per month** in a mid-sized law firm
-- Used **n8n** as a rapid orchestration/prototyping layer, then moved critical flows into Python services for better scalability and maintainability
+Proof of concept for the AGIR Platform — a regulatory data ingestion and analysis system designed for public water quality oversight (ARSP/CPSI context). Automates CSV/XLSX upload from concessionaires, validates parameters against Portaria GM/MS nº 888/2021, and surfaces non-conformities via an analytical dashboard.
 
-**Keywords:** Event-Driven Architecture • Cloud Run • Pub/Sub • FastAPI • Async Workers • Legal Automation • Document Processing • Google Cloud
+Stack: React · TypeScript · Supabase/PostgreSQL · PapaParse · SheetJS · Zod
+Architecture portable to Prodest/government infrastructure. Not officially endorsed by ARSP or Prodest.
 
 ---
 
-## 🚀 Featured Project
+### e-finance — Loan Portfolio Management Platform
+**[github.com/Gsfrota/e-finance](https://github.com/Gsfrota/e-finance)**
 
-### **SIAJUS — Legal Operations and Document Management Platform**
-Legal operations platform designed to centralize folder management, automated file conversion, and internal workflow organization for legal teams.
+Multi-tenant SaaS for private credit portfolio management: contracts, installments, delinquency tracking, PIX payments, and a conversational bot with NLU in Portuguese (WhatsApp + Telegram). 20-stage NLU pipeline with hybrid regex + Gemini AI fallback.
 
-**Highlights**
-- Built a complete legal platform for **case folder management**, **document organization**, and **automated file conversion**
-- Developed end-to-end using **React**, **Supabase**, **Google Cloud**, and **Claude Code**
-- Centralized operational and document-heavy legal workflows in a single environment
-- Improved internal organization, traceability, and execution speed for recurring legal tasks
-- Designed to support real-world legal operations with a practical, scalable architecture
-
-**Keywords:** Legal Tech • Document Management • File Conversion • React • Supabase • Google Cloud • Claude Code • Workflow Automation
+Stack: React 19 · TypeScript · Supabase · Node.js · Gemini AI · Cloud Run · GitHub Actions
 
 ---
 
-## 🚀 Featured Project
+### Lumiere — Jewelry ERP with WhatsApp AI Sales Assistant
+**[github.com/Gsfrota/Lumiere](https://github.com/Gsfrota/Lumiere)**
 
-### **Master Menu — Restaurant & Pizzeria Management Platform**
-All-in-one platform for restaurants and pizzerias, combining operations, digital menu management, CRM, delivery workflows, and AI-powered content support.
+Full SaaS platform for jewelry brands: inventory, reseller management, POS, CRM, supply chain, and financials — with an AI-powered WhatsApp assistant for sales automation. Multi-tenant architecture with RLS isolation and automated CI/CD to Cloud Run.
 
-**Highlights**
-- Built a full management platform for **restaurants and pizzerias**
-- Developed with **React**, **Supabase**, **Google Cloud**, and **Claude Code**
-- Includes modules for:
-  - CRM
-  - digital menu
-  - QR Code menu
-  - local in-store menu
-  - order management
-  - delivery operations
-  - employee management
-  - internal operations dashboard
-- Integrated AI features for **menu generation**, **image support**, and content creation
-- Designed to streamline both customer-facing and back-office operations in a single system
-
-**Keywords:** Restaurant Tech • POS • CRM • Delivery Management • Digital Menu • QR Code Menu • AI Features • React • Supabase
+Stack: React 19 · TypeScript · Supabase · Deno Edge Functions · Docker · GitHub Actions
 
 ---
 
-## 🚀 Featured Project
+### SIMAS — Legal Expert Report Management Platform
+**[github.com/Gsfrota/SIMAS](https://github.com/Gsfrota/SIMAS)**
 
-### **Lumiere — Jewelry ERP with WhatsApp AI Sales Assistant**
-ERP and sales operations platform for jewelry businesses and reseller networks, combining inventory management with an AI-powered WhatsApp assistant.
+Operational platform for managing legal expert reports (perícias) in law firms. Automates WhatsApp notifications, centralizes status tracking, and reduces manual follow-up on expert examination workflows. JWT auth with proactive token refresh; soft-delete audit trail.
 
-**Highlights**
-- Built a management platform for **jewelry businesses and reseller operations**
-- Developed with **React**, **Supabase**, **Google Cloud**, and **Claude Code**
-- Covers:
-  - inventory management
-  - reseller management
-  - operational control
-  - business workflow centralization
-- Integrated an **AI-powered WhatsApp assistant** to support sales and customer interactions
-- Designed to connect internal operations with automated, scalable customer communication
-
-**Keywords:** ERP • Inventory Management • Jewelry Industry • Reseller Management • WhatsApp AI • Sales Automation • React • Supabase
+Stack: React 18 · TypeScript · FastAPI · Supabase · Uazapi · Docker · Cloud Run
 
 ---
 
-## 🚀 Featured Project
+## Education
 
-### **Juros Certo — Loan Portfolio Management Platform**
-Financial operations platform built to help private lenders manage loan portfolios, payment tracking, receipts, and day-to-day credit operations.
-
-**Highlights**
-- Built a platform for **loan management** and **interest-based lending operations**
-- Developed with **React**, **Supabase**, **Google Cloud**, and **Claude Code**
-- Supports:
-  - borrower and lender records
-  - payment tracking
-  - receipt management
-  - real-time portfolio visibility
-  - operational financial control
-- Replaced manual, fragmented control processes with a structured and transparent digital workflow
-- Focused on making lending operations more organized, auditable, and scalable
-
-**Keywords:** Fintech • Loan Management • Payment Tracking • Financial Operations • React • Supabase • Google Cloud • Workflow Digitization
+- **UNINTER** — Computer Networks
+- **UFC** — Computer Science
 
 ---
 
-## 🚀 Featured Project
+## Certifications
 
-### **CBD Med — Telemedicine Platform**
-Digital healthcare platform built to support online medical workflows, payments, and service operations through a modern telemedicine experience.
-
-**Highlights**
-- Built a telemedicine platform focused on a fully digital patient journey
-- Developed using **React**, **Stripe**, **Claude Code**, and **Codex**
-- Designed to support:
-  - online appointment workflows
-  - digital service operations
-  - payment integration
-  - structured healthcare experiences
-- Focused on creating a modern, scalable, and user-friendly telemedicine product
-- Combined product thinking, payments, and AI-assisted development in a real-world health platform
-
-**Keywords:** Telemedicine • HealthTech • Stripe • React • Claude Code • Codex • Digital Payments • Online Healthcare
-
----
-
-## 🚀 Featured Project
-
-### **Agenda Art — Business & Schedule Management Platform for the Music Industry**
-Management platform built for artist managers and music business operators, focused on scheduling, organization, and business workflow control.
-
-**Highlights**
-- Built a management system for **artist managers** and professionals in the **music industry**
-- Developed with **React**, **Supabase**, **Google Cloud**, and **Claude Code**
-- Supports:
-  - schedule organization
-  - business workflow management
-  - operational control
-  - day-to-day coordination for artists and teams
-- Designed to centralize fragmented managerial routines into a more professional digital workflow
-- Focused on improving organization and operational visibility in entertainment businesses
-
-**Keywords:** Music Industry • Business Management • Scheduling Platform • Artist Management • React • Supabase • Google Cloud • Workflow Organization
----
-
-## 🎓 Education
-- **UNINTER** — **Computer Networks**
-- **UFC** - Computer Science
----
-
-## 📜 Certifications
 - Microsoft Certified: **Azure Data Fundamentals (DP-900)**
 - Microsoft Certified: **Azure Fundamentals (AZ-900)**
 - Duolingo English Test: **110**
-- ANTROPIC - Claude Code In Action
-- ANTROPIC - AI FLUENCY FOR EDUCATORS
-- ANTROPIC - Teaching AI FLUENCY
+- Anthropic: Claude Code In Action
+- Anthropic: AI Fluency for Educators
+
 ---
 
-## 🗣️ Languages
+## Languages
+
 - Portuguese (Native)
 - English (Upper-intermediate / Professional working proficiency)
 
 ---
 
-## 📫 Contact
-- Email: **guifrotasouza@gmail.com**
-- Phone: **+55 (85) 99131-8582**
-- LinkedIn: *(https://www.linkedin.com/in/guilherme-frota/)*
+## Contact
 
----
-⭐ If you’re interested in **DevOps + Python automation**, feel free to explore my repositories and connect!
+- Email: guifrotasouza@gmail.com
+- LinkedIn: [linkedin.com/in/guilherme-frota](https://www.linkedin.com/in/guilherme-frota/)
+- GitHub: [github.com/Gsfrota](https://github.com/Gsfrota)

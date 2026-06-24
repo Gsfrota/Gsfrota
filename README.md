@@ -1,50 +1,48 @@
-# Guilherme Frota — Infrastructure / DevOps Engineer
+# Guilherme Frota — Automation & AI Engineer
 
-**Infrastructure and DevOps Engineer** with experience in cloud-native delivery, Infrastructure as Code, and full-stack SaaS product development. Currently focused on **GovTech, regulatory data platforms, and scalable cloud solutions** applied to public sector challenges.
+**Automation & AI Engineer** who turns business pain points into production systems — from deep cloud/infrastructure automation all the way up to **AI agents that real users talk to**. I build end-to-end: design the workflow, ship fast, validate fast.
 
-📍 Mossoró, RN — Brazil | Remote
+📍 Mossoró, RN — Brazil | Remote (open to US time zones)
 
 ---
 
 ## Professional Summary
 
-Infrastructure and DevOps Engineer with 3+ years of experience building cloud infrastructure, CI/CD pipelines, and automation across AWS, Azure, and GCP. Hands-on with Terraform, Docker, Kubernetes (EKS), and Google Cloud (Cloud Run, Pub/Sub). Also active in full-stack SaaS product development using React, TypeScript, Supabase, and AI-driven automation.
+Automation and AI engineer with **4+ years** building automation **from concept through production** across cloud, network, and security environments. Strong in **Python, REST APIs, Terraform, Ansible, Git/GitHub** and **CI/CD pipelines** (Azure DevOps · GitHub Actions · CircleCI) on AWS, Azure, and GCP.
 
-Current focus: **GovTech solutions** — regulatory data ingestion and analysis platforms, cloud-portable architectures designed for public sector infrastructure (Prodest/government environments), and AI-assisted workflows for operational efficiency.
+For the last ~2 years I've worked deep in the **agentic AI** ecosystem — **LLMs, MCP (Model Context Protocol), CrewAI / LangChain, RAG** — including self-hosting **local LLMs** on my own hardware for privacy-preserving experimentation. I've single-handedly shipped **8+ end-to-end products** solving real-world problems, several of them with conversational AI agents in production.
 
 ---
 
 ## Tech Stack
 
-**Cloud:** Azure · AWS · GCP (Cloud Run, Pub/Sub, Cloud Scheduler)
-**CI/CD:** Azure DevOps · GitHub Actions · CircleCI · Jenkins
+**GenAI / Agentic AI:** LLMs · MCP (Model Context Protocol) · CrewAI · LangChain · RAG · AI agents · Anthropic Claude · Google Gemini · local LLMs · n8n AI workflows
+**Languages:** Python · Bash · TypeScript · SQL
+**Cloud:** GCP (Cloud Run, Pub/Sub, Cloud Scheduler) · AWS (EKS) · Azure
 **IaC & Automation:** Terraform · Ansible · n8n
+**CI/CD:** GitHub Actions · Azure DevOps · CircleCI · Jenkins
 **Containers & Orchestration:** Docker · Kubernetes (EKS)
 **Observability:** Prometheus · Grafana · ELK Stack · Kubecost
-**Programming:** Python · Bash · TypeScript
 **Frontend:** React · Vite · Tailwind CSS · shadcn/ui
-**Backend / BaaS:** FastAPI · Supabase (PostgreSQL + RLS + Edge Functions)
-**Data Parsing:** PapaParse · SheetJS · Zod
-**AI Tooling:** Claude Code · n8n AI workflows · Generative AI integrations
+**Backend / BaaS:** FastAPI · Node.js · Supabase (PostgreSQL + RLS + Edge Functions)
 
 ---
 
 ## Experience
 
-### Thoughtworks — Infrastructure Engineer
+### Thoughtworks — Infrastructure & Automation Engineer (allocated at John Deere)
 **Apr 2025 – Present**
-- Designed and maintained CircleCI pipelines to build, test, and deploy Python applications to Google Cloud Run
-- Automated GCP provisioning with Terraform (Cloud Run, Pub/Sub, databases) integrated into CI/CD
+- Built **AI agents** that interact with humans for automated data collection, plus event-driven automation (n8n, Google Chat, Redis)
+- Automated GCP provisioning with **Terraform** (Cloud Run, Pub/Sub) integrated into **CircleCI** CI/CD pipelines
 - Provisioned and operated n8n as code across multi-environment deployments
-- Built internal automation and AI chatbot solutions using n8n, improving team productivity
+- Currently driving **e-commerce integration** at John Deere, bridging engineering and business
 
 ### FitBank — DevOps Engineer
 **Aug 2023 – Apr 2025 | Russas, CE**
-- Built and maintained CI/CD pipelines with Azure DevOps across multiple services
-- Automated infrastructure provisioning using Terraform + Ansible on Azure and AWS
-- Operated production workloads on AWS EKS and Windows Server
-- Contributed to migration of 1,000+ Windows Server-based microservices to AWS EKS
-- Improved observability with Prometheus, Grafana, ELK and reduced costs using Kubecost
+- Built and maintained **CI/CD pipelines** with Azure DevOps across multiple services
+- Automated infrastructure provisioning with **Terraform + Ansible** on Azure and AWS, plus **Python** automation
+- Contributed to migration of **1,000+ Windows Server microservices** to AWS EKS
+- Improved observability with Prometheus, Grafana, ELK and reduced costs with Kubecost
 
 ### NERDS (UFC Extension Project) — DevOps Engineer
 **Mar 2023 – Aug 2023 | Russas, CE**
@@ -59,40 +57,48 @@ Current focus: **GovTech solutions** — regulatory data ingestion and analysis 
 
 ## Featured Projects
 
-### AGIR PoC — Regulatory Data Analysis Platform for Water Quality
-**[github.com/Gsfrota/agir-poc-arsp](https://github.com/Gsfrota/agir-poc-arsp)**
+### 🛰️ InfraPilot — Agentic AI for Infrastructure Operations
+**[github.com/Gsfrota/infra-pilot](https://github.com/Gsfrota/infra-pilot)**
 
-Proof of concept for the AGIR Platform — a regulatory data ingestion and analysis system designed for public water quality oversight (ARSP/CPSI context). Automates CSV/XLSX upload from concessionaires, validates parameters against Portaria GM/MS nº 888/2021, and surfaces non-conformities via an analytical dashboard.
+A multi-agent system that **provisions, monitors, validates compliance, and auto-remediates** cloud/network/security infrastructure. Native + **CrewAI** orchestration engines over a shared tool layer, an **MCP server** (drive it from Claude Desktop/Code), and a transparent simulation fallback so it runs anywhere — no cloud creds needed. Green CI on Python 3.10–3.12 plus real Terraform/Ansible validation.
 
-Stack: React · TypeScript · Supabase/PostgreSQL · PapaParse · SheetJS · Zod
-Architecture portable to Prodest/government infrastructure. Not officially endorsed by ARSP or Prodest.
+Stack: Python · MCP · CrewAI · LangChain · Terraform · Ansible · GitHub Actions CI/CD · pytest
 
 ---
 
-### e-finance — Loan Portfolio Management Platform
+### 💬 Juros Certo — Credit-Management SaaS with a WhatsApp AI Agent
 **[github.com/Gsfrota/e-finance](https://github.com/Gsfrota/e-finance)**
 
-Multi-tenant SaaS for private credit portfolio management: contracts, installments, delinquency tracking, PIX payments, and a conversational bot with NLU in Portuguese (WhatsApp + Telegram). 20-stage NLU pipeline with hybrid regex + Gemini AI fallback.
+Multi-tenant SaaS operated by a conversational **WhatsApp AI agent** that **registers contracts & clients, settles payments, and sends automated morning/afternoon reminders** — all in natural language, with explicit confirmation before any data mutation. Backed by a 20-stage NLU pipeline (80+ regex + Gemini fallback) and a full web panel (PIX, delinquency, multi-CNPJ).
 
-Stack: React 19 · TypeScript · Supabase · Node.js · Gemini AI · Cloud Run · GitHub Actions
+Stack: React 19 · TypeScript · Supabase · Node.js · Gemini · Cloud Run · GitHub Actions
 
 ---
 
-### Lumiere — Jewelry ERP with WhatsApp AI Sales Assistant
+### 💎 Lumiere — Jewelry ERP with WhatsApp AI Sales Assistant
 **[github.com/Gsfrota/Lumiere](https://github.com/Gsfrota/Lumiere)**
 
-Full SaaS platform for jewelry brands: inventory, reseller management, POS, CRM, supply chain, and financials — with an AI-powered WhatsApp assistant for sales automation. Multi-tenant architecture with RLS isolation and automated CI/CD to Cloud Run.
+Full SaaS platform for jewelry brands: inventory, reseller management, POS, CRM, supply chain, and financials — with an **AI-powered WhatsApp assistant** for sales automation. Multi-tenant with RLS isolation and automated CI/CD to Cloud Run.
 
 Stack: React 19 · TypeScript · Supabase · Deno Edge Functions · Docker · GitHub Actions
 
 ---
 
-### SIMAS — Legal Expert Report Management Platform
+### ⚖️ SIMAS — Legal Expert Report Management Platform
 **[github.com/Gsfrota/SIMAS](https://github.com/Gsfrota/SIMAS)**
 
-Operational platform for managing legal expert reports (perícias) in law firms. Automates WhatsApp notifications, centralizes status tracking, and reduces manual follow-up on expert examination workflows. JWT auth with proactive token refresh; soft-delete audit trail.
+Operational platform for managing legal expert reports (perícias) in law firms. Automates WhatsApp notifications, centralizes status tracking, and removes manual follow-up. JWT auth with proactive token refresh; soft-delete audit trail.
 
 Stack: React 18 · TypeScript · FastAPI · Supabase · Uazapi · Docker · Cloud Run
+
+---
+
+### 💧 AGIR PoC — Regulatory Data Analysis Platform for Water Quality
+**[github.com/Gsfrota/agir-poc-arsp](https://github.com/Gsfrota/agir-poc-arsp)**
+
+Proof of concept for a regulatory data ingestion and analysis system for public water-quality oversight (ARSP/CPSI context). Automates CSV/XLSX upload from concessionaires, validates parameters against Portaria GM/MS nº 888/2021, and surfaces non-conformities via an analytical dashboard. Not officially endorsed by ARSP or Prodest.
+
+Stack: React · TypeScript · Supabase/PostgreSQL · PapaParse · SheetJS · Zod
 
 ---
 
@@ -105,18 +111,18 @@ Stack: React 18 · TypeScript · FastAPI · Supabase · Uazapi · Docker · Clou
 
 ## Certifications
 
-- Microsoft Certified: **Azure Data Fundamentals (DP-900)**
+- Anthropic: **Claude Code In Action**
+- Anthropic: **AI Fluency for Educators**
 - Microsoft Certified: **Azure Fundamentals (AZ-900)**
+- Microsoft Certified: **Azure Data Fundamentals (DP-900)**
 - Duolingo English Test: **110**
-- Anthropic: Claude Code In Action
-- Anthropic: AI Fluency for Educators
 
 ---
 
 ## Languages
 
 - Portuguese (Native)
-- English (Upper-intermediate / Professional working proficiency)
+- English (Professional working proficiency)
 
 ---
 

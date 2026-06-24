@@ -1,6 +1,6 @@
-# Guilherme Frota — Automation & AI Engineer
+# Guilherme Frota — Infrastructure & Automation Engineer
 
-**Automation & AI Engineer** who turns business pain points into production systems — from deep cloud/infrastructure automation all the way up to **AI agents that real users talk to**. I build end-to-end: design the workflow, ship fast, validate fast.
+**Infrastructure & Automation Engineer** who turns business pain points into production systems — from deep cloud/infrastructure automation all the way up to **AI agents that real users talk to**. I build end-to-end: design the workflow, ship fast, validate fast.
 
 📍 Mossoró, RN — Brazil | Remote (open to US time zones)
 
@@ -8,15 +8,15 @@
 
 ## Professional Summary
 
-Automation and AI engineer with **4+ years** building automation **from concept through production** across cloud, network, and security environments. Strong in **Python, REST APIs, Terraform, Ansible, Git/GitHub** and **CI/CD pipelines** (Azure DevOps · GitHub Actions · CircleCI) on AWS, Azure, and GCP.
+Infrastructure and automation engineer with **4+ years** building automation **from concept through production** across cloud, network, and security environments. Strong in **Python, REST APIs, Terraform, Ansible, Git/GitHub** and **CI/CD pipelines** (Azure DevOps · GitHub Actions · CircleCI) on AWS, Azure, and GCP.
 
-For the last ~2 years I've worked deep in the **agentic AI** ecosystem — **LLMs, MCP (Model Context Protocol), CrewAI / LangChain, RAG** — including self-hosting **local LLMs** on my own hardware for privacy-preserving experimentation. I've single-handedly shipped **8+ end-to-end products** solving real-world problems, several of them with conversational AI agents in production.
+For the last ~2 years I've worked deep in the **agentic AI** ecosystem — **LLMs, MCP (Model Context Protocol), RAG**, and building multi-agent systems — including self-hosting **local LLMs** on my own hardware for privacy-preserving experimentation. I've single-handedly shipped **8+ end-to-end products** solving real-world problems, several of them with conversational AI agents in production.
 
 ---
 
 ## Tech Stack
 
-**GenAI / Agentic AI:** LLMs · MCP (Model Context Protocol) · CrewAI · LangChain · RAG · AI agents · Anthropic Claude · Google Gemini · local LLMs · n8n AI workflows
+**GenAI / Agentic AI:** LLMs · MCP (Model Context Protocol) · RAG · multi-agent systems · AI agents · Anthropic Claude · Google Gemini · local LLMs · n8n AI workflows
 **Languages:** Python · Bash · TypeScript · SQL
 **Cloud:** GCP (Cloud Run, Pub/Sub, Cloud Scheduler) · AWS (EKS) · Azure
 **IaC & Automation:** Terraform · Ansible · n8n
@@ -60,9 +60,9 @@ For the last ~2 years I've worked deep in the **agentic AI** ecosystem — **LLM
 ### 🛰️ InfraPilot — Agentic AI for Infrastructure Operations
 **[github.com/Gsfrota/infra-pilot](https://github.com/Gsfrota/infra-pilot)**
 
-A multi-agent system that **provisions, monitors, validates compliance, and auto-remediates** cloud/network/security infrastructure. Native + **CrewAI** orchestration engines over a shared tool layer, an **MCP server** (drive it from Claude Desktop/Code), and a transparent simulation fallback so it runs anywhere — no cloud creds needed. Green CI on Python 3.10–3.12 plus real Terraform/Ansible validation.
+A multi-agent system that **provisions, monitors, validates compliance, and auto-remediates** cloud/network/security infrastructure. A sequential orchestrator coordinates five specialised agents over a shared tool layer, exposes them through an **MCP server** (drive it from Claude Desktop/Code), and uses an optional **Anthropic Claude** reasoning layer — with a transparent simulation fallback so it runs anywhere, no cloud creds needed. Green CI on Python 3.10–3.12 plus real Terraform/Ansible validation.
 
-Stack: Python · MCP · CrewAI · LangChain · Terraform · Ansible · GitHub Actions CI/CD · pytest
+Stack: Python · MCP · Anthropic Claude · Terraform · Ansible · GitHub Actions CI/CD · pytest
 
 ---
 
@@ -90,15 +90,6 @@ Stack: React 19 · TypeScript · Supabase · Deno Edge Functions · Docker · Gi
 Operational platform for managing legal expert reports (perícias) in law firms. Automates WhatsApp notifications, centralizes status tracking, and removes manual follow-up. JWT auth with proactive token refresh; soft-delete audit trail.
 
 Stack: React 18 · TypeScript · FastAPI · Supabase · Uazapi · Docker · Cloud Run
-
----
-
-### 💧 AGIR PoC — Regulatory Data Analysis Platform for Water Quality
-**[github.com/Gsfrota/agir-poc-arsp](https://github.com/Gsfrota/agir-poc-arsp)**
-
-Proof of concept for a regulatory data ingestion and analysis system for public water-quality oversight (ARSP/CPSI context). Automates CSV/XLSX upload from concessionaires, validates parameters against Portaria GM/MS nº 888/2021, and surfaces non-conformities via an analytical dashboard. Not officially endorsed by ARSP or Prodest.
-
-Stack: React · TypeScript · Supabase/PostgreSQL · PapaParse · SheetJS · Zod
 
 ---
 
